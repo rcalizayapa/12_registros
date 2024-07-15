@@ -29,7 +29,7 @@ int main() {
     }
 
     int mes;
-    cout << "---------Personas que nacieron en el mismo mes---------" << endl;
+    cout << "Personas que nacieron en el mismo mes" << endl;
     do {
         cout << "Ingrese un mes a buscar (0 para salir): ";
         cin >> mes;
